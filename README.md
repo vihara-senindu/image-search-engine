@@ -8,7 +8,7 @@ Introducing our innovative image search engine, a powerful tool that allows user
 ```bash
 
 # Clone this repository
-git clone https://github.com/
+git clone https://github.com/vihara-senindu/image-search-engine
 
 ```
 ## Language & Technology Used 
@@ -18,4 +18,4 @@ git clone https://github.com/
 - [JAVASCRIPT](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Developer
-- [Creator](https://github.com/ViharaSenindu)
+- [Creator](https://github.com/Vihara-Senindu)
